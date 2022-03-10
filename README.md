@@ -9,7 +9,7 @@ This project is a web application for Delani studio that shows details about the
 ## Setup/Installation Requirements
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone https://github.com/Owiti-Charles/Delani-Studio.git
+* git clone https://github.com/linetlucy-genchabe/delani-studio.git
 
 * cd Delani-Studio
 
