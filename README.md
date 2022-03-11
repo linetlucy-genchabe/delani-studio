@@ -4,7 +4,7 @@
 ## Description
 This project is a web application for Delani studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send messages  to Delani studios.
 ## UI
-<img src=images/_Delani-Studio.jpg>
+/home/lynne/Documents/moringa-school-projects/delani-studio/images/mydelani.png
 
 ## Setup/Installation Requirements
 * Open Terminal {Ctrl+Alt+T}
